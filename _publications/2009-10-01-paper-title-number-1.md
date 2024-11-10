@@ -7,7 +7,7 @@ excerpt: "This paper is about the number 1. The number 2 is left for future work
 date: 2024-10-01
 venue: "ACM Symposium on Cloud Computing (SoCC '24), November 20–22, 2024, Redmond, WA, USA"
 slidesurl: "http://academicpages.github.io/files/slides1.pdf"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
+paperurl: "http://academicpages.github.io/files/ACM_SOCC_final_template (11).pdf"
 videourl: "https://www.youtube.com/embed/video_id"
 citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
 ---
