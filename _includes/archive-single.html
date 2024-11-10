@@ -66,5 +66,11 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
 
+    {% if post.videourl %}
+      <div class="video-container">
+        <iframe width="560" height="315" src="{{ post.videourl }}" frameborder="0" allowfullscreen></iframe>
+      </div>
+    {% endif %}
+
   </article>
 </div>
