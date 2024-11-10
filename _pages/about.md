@@ -17,4 +17,4 @@ You can reach me at my personal email: 3167360788@qq.com.
 
 Publications
 ======
-Qinghe Wang, Futian Wang, Xinwei Zheng. Hops: Fine-grained heterogeneous sensing, efficient and fair Deep Learning cluster scheduling system. In the 15th edition of the annual ACM Symposium on Cloud Computing (SoCC), Redmond, WA, USA, November 20th-22nd, 2024 (CCF-B). 
+Qinghe Wang, Futian Wang, Xinwei Zheng. Hops: Fine-grained heterogeneous sensing, efficient and fair Deep Learning cluster scheduling system. In the 15th edition of the annual ACM Symposium on Cloud Computing (SoCC), Redmond, WA, USA, November 20th-22nd, 2024 (CCF-B).
