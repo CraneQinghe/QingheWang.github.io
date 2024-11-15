@@ -8,7 +8,7 @@ date: 2024-11-20
 venue: "ACM Symposium on Cloud Computing (SoCC '24), November 20–22, 2024, Redmond, WA, USA"
 slidesurl: "http://academicpages.github.io/files/slides1.pdf"
 paperurl: "https://craneqinghe.github.io/QingheWang.github.io/files/ACM_SOCC_final_template.pdf"
-videourl: "https://youtu.be/EpKUu61Qmrg"
+videourl: "https://www.youtube.com/embed/EpKUu61Qmrg"
 ---
 
 In recent years, the number of clusters and cloud platforms dedicated to deep learning acceleration has increased, and research on multi-tenant deep learning (DL) cluster scheduling systems has also advanced quickly. However, we have observed several shortcomings in these systems. Firstly, resources exhibit heterogeneity, but even the most advanced heterogeneity-aware schedulers can only reach the GPU-type level. In addition, most scheduling systems cannot perform well in balancing efficiency and fairness, which leads to unfair resource allocation and reduced user satisfaction. Moreover, we have noticed the phenomenon of cluster fragmentation and job starvation. 
