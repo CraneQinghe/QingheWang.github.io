@@ -6,7 +6,7 @@ permalink: /publication/2024-11-20-paper-title-number-1
 excerpt: "This paper is a collaborative work with my mentors, Wang Futian and Zheng Xinwei"
 date: 2024-11-20
 venue: "ACM Symposium on Cloud Computing (SoCC '24), November 20–22, 2024, Redmond, WA, USA"
-slidesurl: "https://craneqinghe.github.io/QingheWang.github.io/files/oral_presentatio.pptx"
+slidesurl: "https://craneqinghe.github.io/files/oral_presentatio.pptx"
 paperurl: "https://doi.org/10.1145/3698038.3698515"
 videourl: "https://www.youtube.com/embed/ZOa9ksPGlXA"
 ---
