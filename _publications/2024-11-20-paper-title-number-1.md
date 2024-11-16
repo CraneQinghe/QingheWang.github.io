@@ -9,6 +9,24 @@ venue: "ACM Symposium on Cloud Computing (SoCC '24), November 20–22, 2024, Red
 slidesurl: "https://craneqinghe.github.io/files/oral_presentatio.pptx"
 paperurl: "https://doi.org/10.1145/3698038.3698515"
 videourl: "https://www.youtube.com/embed/ZOa9ksPGlXA"
+citation: |
+  @inproceedings{10.1145/3698038.3698515,
+    author = {Wang, Qinghe and Wang, Futian and Zheng, Xinwei},
+    title = {Hops: Fine-grained heterogeneous sensing, efficient and fair Deep Learning cluster scheduling system},
+    year = {2024},
+    isbn = {9798400712869},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3698038.3698515},
+    doi = {10.1145/3698038.3698515},
+    abstract = {In recent years, the number of clusters and cloud platforms dedicated to deep learning acceleration has increased, and research on multi-tenant deep learning (DL) cluster scheduling systems has also advanced quickly. However, we have observed several shortcomings in these systems. Firstly, resources exhibit heterogeneity, but even the most advanced heterogeneity-aware schedulers can only reach the GPU-type level. In addition, most scheduling systems cannot perform well in balancing efficiency and fairness, which leads to unfair resource allocation and reduced user satisfaction. Moreover, we have noticed the phenomenon of cluster fragmentation and job starvation.In this paper, we propose a new scheduling architecture: Hops, which includes (1) fine-grained heterogeneity awareness and accurate throughput estimators, which allows for heterogeneity awareness at the server entity level. (2) Hops performs resource allocation by executing prior weighted integer linear programming (ILP) for specific placement locations, effectively balancing fairness and efficiency. (3) Hops introduces "latency ratio fairness" (LRF) as a user fairness criterion, which helps reduce starvation and enhance user experience. (4) To address cluster fragmentation, Hops intentionally uses low-sensitivity jobs to fill fragments. The final experimental results show that, in physical experiments, compared with the state-of-the-art scheduling architectures: Sia [17] and Gavel [32], Hops reduces cluster completion time by 18.5% to 34.2%, shortens average job completion time (JCT) by 27.4% to 45.9%, lowers waiting latency by 35.4% to 54.9%, significantly reduces cluster fragmentation, and performs significantly better in fairness metrics compared to Sia and Gavel. In the 512-GPU simulation experiments, Hops not only improves system efficiency but also reduces the maximum job latency ratio by over 21x and decreases cluster fragmentation to less than 1 GPU per round on average.},
+    booktitle = {Proceedings of the 2024 ACM Symposium on Cloud Computing},
+    pages = {1–17},
+    numpages = {17},
+    keywords = {Deep learning, fairness, heterogeneous awareness, multi-tenant cluster, scheduling system},
+    location = {Redmond, WA, USA},
+    series = {SoCC '24}
+  }
 ---
 
 In recent years, the number of clusters and cloud platforms dedicated to deep learning acceleration has increased, and research on multi-tenant deep learning (DL) cluster scheduling systems has also advanced quickly. However, we have observed several shortcomings in these systems. Firstly, resources exhibit heterogeneity, but even the most advanced heterogeneity-aware schedulers can only reach the GPU-type level. In addition, most scheduling systems cannot perform well in balancing efficiency and fairness, which leads to unfair resource allocation and reduced user satisfaction. Moreover, we have noticed the phenomenon of cluster fragmentation and job starvation. 
